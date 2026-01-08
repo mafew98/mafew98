@@ -4,7 +4,7 @@
  * I'm a passionate computer scientist and engineer that loves solving complex problems. I'm interested in Distributed Systems and Computer Networks.
  * Ex-Senior Member of Technical Staff at Oracle, working on Database As A Service on Oracle Cloud.
  * Currently pursuing my Master's in Computer Science at The University of Texas at Dallas, specializing in Systems.
- * Bachelor of Technology in Computer Science and Engineering at National Institute of Technology,Calicut.
+ * Bachelor of Technology in Computer Science and Engineering at National Institute of Technology, Calicut.
 
 
 📫 How to reach me **mathewg98@gmail.com**
