@@ -7,4 +7,4 @@
  * Bachelor of Technology in Computer Science and Engineering at National Institute of Technology, Calicut.
 
 
-📫 How to reach me **mathewg0408@gmail.com**
+📫 Email me at **mathewg0408@gmail.com**
